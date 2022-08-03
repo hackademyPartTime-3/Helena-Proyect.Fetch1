@@ -1,0 +1,28 @@
+
+.altura{
+    height: 80px;
+    background-color: #4158D0;
+background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+
+}
+
+.titulos{
+    font-family: 'Uchen', serif;
+}
+
+.bg-welcome{
+    background: linear-gradient(to top, transparent 10%,#4158D0 100%);
+}
+
+.bg_productos{
+    background: linear-gradient(to top, #C850C0 60%, transparent 100%);
+}
+
+.bg_card{
+     background-color: #8baeec;
+    background-image: linear-gradient(135deg, #8baeec 0%, #d88cda 100%);
+    border-left: 0px;
+    border-top: 0px;
+    border-bottom: 3px;
+    box-shadow: 3px;
+}
